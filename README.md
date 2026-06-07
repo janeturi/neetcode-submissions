@@ -1,7 +1,7 @@
 # NeetCode Solutions — @janeturi
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
-
+> **This is mainly for me! everything is super duper over commented because I started this while learning DSA and so i learned about a lot of diff functions and tricks this way !!
 ---
 
 ## What is this?
